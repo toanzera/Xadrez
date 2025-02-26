@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace xadrez_console.Tabuleiro
+namespace xadrez_console.tabuleiro
 {
     class Peca
     {
@@ -21,5 +21,7 @@ namespace xadrez_console.Tabuleiro
             this.tab = tab;
             this.qteMovimentos = 0;
         }
+
+       
     }
 }

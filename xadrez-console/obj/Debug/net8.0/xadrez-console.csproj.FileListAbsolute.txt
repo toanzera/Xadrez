@@ -12,3 +12,4 @@ C:\Users\tauan.freitas\Desktop\Xadrez\xadrez-console\xadrez-console\obj\Debug\ne
 C:\Users\tauan.freitas\Desktop\Xadrez\xadrez-console\xadrez-console\obj\Debug\net8.0\xadrez-console.pdb
 C:\Users\tauan.freitas\Desktop\Xadrez\xadrez-console\xadrez-console\obj\Debug\net8.0\xadrez-console.genruntimeconfig.cache
 C:\Users\tauan.freitas\Desktop\Xadrez\xadrez-console\xadrez-console\obj\Debug\net8.0\ref\xadrez-console.dll
+C:\Users\tauan.freitas\Desktop\Xadrez\xadrez-console\xadrez-console\obj\Debug\net8.0\xadrez-console.sourcelink.json

@@ -3,16 +3,16 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
-using xadrez_console.Tabuleiro;
+using xadrez_console.tabuleiro;
 namespace xadrez_console
 {
     class Program
     {
         static void Main(string[] args)
         {
-            Posicao P;
-            P = new Posicao(1, 2);
-            Console.WriteLine(P);
+            Tabuleiro tab = new Tabuleiro(8, 8);
+
+            Tela.imprimirTabuleiro(tab);
         }
     }
 }
